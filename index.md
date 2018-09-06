@@ -1,8 +1,11 @@
 # Nathan's first CS193 Lab
+```markdown
 
 Favorite things about CS193 so far:
 -Student-run
 -Meets early in the morning
+
+```
 
 ## Welcome to GitHub Pages
 
