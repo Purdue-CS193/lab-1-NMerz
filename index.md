@@ -2,8 +2,8 @@
 ```markdown
 
 Favorite things about CS193 so far:
--Student-run
--Meets early in the morning
+- Student-run
+- Meets early in the morning
 
 ```
 
